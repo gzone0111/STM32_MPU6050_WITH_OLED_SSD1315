@@ -1,0 +1,10 @@
+i2c.c:31:6:MX_I2C1_Init	8	static
+i2c.c:60:6:MX_I2C2_Init	8	static
+i2c.c:89:6:HAL_I2C_MspInit	48	static
+i2c.c:139:6:HAL_I2C_MspDeInit	16	static
+i2c.c:185:9:HALIIC_WriteByteToSlave	40	static
+i2c.c:191:9:HALIIC_ReadByteFromSlave	32	static
+i2c.c:196:9:HALIIC_ReadMultByteFromSlave	32	static
+i2c.c:200:9:HALIIC_WriteMultByteToSlave	32	static
+i2c.c:204:9:MPU6050_GET_DATA	24	static
+i2c.c:212:6:MPU6050_INIT	8	static
